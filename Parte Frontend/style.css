@@ -1,9 +1,13 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,700|Montserrat:400,700);
 
+body{
+  font-family:'Open Sans',sans-serif;
+}
 header, footer {
-    background-color: blue;
+    background-color: rgb(71, 156, 253);
 }
 a {
-    background-color: coral;
+    background-color: rgb(0, 119, 255);
 }
 footer{
     text-align: center;
