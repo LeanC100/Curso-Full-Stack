@@ -5,3 +5,6 @@ header, footer {
 a {
     background-color: coral;
 }
+footer{
+    text-align: center;
+}
